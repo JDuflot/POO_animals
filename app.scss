@@ -1,0 +1,25 @@
+$img-size : 200px;
+
+
+
+.animal{
+    
+    .card-img-top{
+        height: $img-size;
+        object-fit: cover;
+        
+    }
+
+    .card-body
+    {
+        background-color: bisque;
+    }
+    .list-group-item {
+        background-color: rgb(241, 231, 217);
+        padding-left: 10px;
+        padding-right: 0;
+        border:none;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+}

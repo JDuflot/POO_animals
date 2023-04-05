@@ -1,0 +1,19 @@
+{
+    "name": "utilisateur/poo2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JDuflot",
+            "email": "124251449+JDuflot@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.4",
+        "fakerphp/faker": "^1.21"
+    }
+}

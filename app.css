@@ -1,0 +1,16 @@
+.animal .card-img-top {
+  height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.animal .card-body {
+  background-color: bisque;
+}
+.animal .list-group-item {
+  background-color: rgb(241, 231, 217);
+  padding-left: 10px;
+  padding-right: 0;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=app.css.map */
